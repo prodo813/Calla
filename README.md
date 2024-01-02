@@ -88,13 +88,14 @@ BUILD SUCCESS가 뜨면 설치 성공
 
 ## 웹 실행 모습
 <details> 
-  <summary> 자유 게시판 메인 </summary> 
+  <summary> 중고상품 메인 </summary> 
   <p>
-    1. 게시글 데이터의 제목, 작성자, 조회수, 좋아요 등의 정보를 확인할 수 있습니다.<br/>
-    2. 검색기능(작성자 or 제목+내용) 및 페이지네이션이 적용되어 있습니다.<br/>
-    3. 로그인한 사용자는 글 작성이 가능합니다.
+    1. 중고상품의 전체 조회가 가능합니다.<br/>
+    2. 상품검색 기능(카테고리, 상품이름)이 포함되어 있습니다.<br/>
+    3. 상품별 네비게이션바가 있습니다.
+    4. 상품 좋아요, 최신순 나열이 가능합니다.
   </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/0a3c93f6-bcd1-4648-be4c-04a3462b4724" width="500px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/265e1976-55a6-4671-81bc-e6d208cdd88a" width="500px">
   <br>
 </details>
 
