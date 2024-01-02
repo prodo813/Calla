@@ -92,7 +92,7 @@ BUILD SUCCESS가 뜨면 설치 성공
   <p>
     1. 중고상품의 전체 조회가 가능합니다.<br/>
     2. 상품검색 기능(카테고리, 상품이름)이 포함되어 있습니다.<br/>
-    3. 상품별 네비게이션바가 있습니다.
+    3. 상품별 네비게이션바가 있습니다.<br/>
     4. 상품 좋아요, 최신순 나열이 가능합니다.
   </p>
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/265e1976-55a6-4671-81bc-e6d208cdd88a" width="500px">
@@ -100,15 +100,15 @@ BUILD SUCCESS가 뜨면 설치 성공
 </details>
 
 <details> 
-  <summary> 자유 게시판 상세 </summary> 
+  <summary> 검색 기능 </summary> 
   <p>
-    1. 상세페이지 접근 시 쿠키를 생성해 조회수를 증가시킵니다.<br/>
-    2. 작성자는 게시글을 수정 및 삭제할 수 있습니다.<br/>
-    3. 로그인한 사용자는 댓글, 대댓글을 입력 가능하고, 작성자는 삭제할 수 있습니다.<br/>
-    4. 댓글에 페이지네이션이 적용되어 있습니다.<br/>
+    1. 검색창에 상품이름(keyword)으로 검색시 keyword가 포함된 모든 상품 조회 .<br/>
+    2. 네비게이션 기능을 통해 카테고리 클릭시 해당 카테고리 상품만 조회.<br/>
+    3. 신상품 나열시 등록된지 2일 이하인 상품만 조회.<br/>
+    4. 좋아요 순 나열시 좋아요가 많은 순서대로 상품 조회.<br/>
   </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/9c785eea-cd1a-4b69-a8e6-bc5f13457d4f" width="500px">
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/4b2f01c0-30d8-44ba-9b1f-68d6a42f8cd4" width="500px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/8d1ec6db-4b47-4386-9e39-e716bc5f5ec7" width="500px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/bc77120b-7203-48fb-9eaf-280dc99d8aed" width="500px">
   <br>
 </details>
 
