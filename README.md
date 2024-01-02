@@ -98,6 +98,7 @@ BUILD SUCCESS가 뜨면 설치 성공
 ## 웹 실행 모습
 <details> 
   <summary> 중고상품 메인 </summary> 
+  <br>
   <p>
     1. 중고상품의 전체 조회가 가능합니다.<br/>
     2. 상품검색 기능(카테고리, 상품이름)이 포함되어 있습니다.<br/>
@@ -110,6 +111,7 @@ BUILD SUCCESS가 뜨면 설치 성공
 
 <details> 
   <summary> 검색 기능 </summary> 
+  <br>
   <p>
     1. 검색창에 상품이름(keyword)으로 검색시 keyword가 포함된 모든 상품 조회 .<br/>
     2. 네비게이션 기능을 통해 카테고리 클릭시 해당 카테고리 상품만 조회.<br/>
@@ -124,6 +126,7 @@ BUILD SUCCESS가 뜨면 설치 성공
 
 <details>
   <summary> 물건 등록 </summary> 
+  <br>
   <p>
     1. 중고거래 탭에서는 자신이 올리고 싶은 상품 직접 등록.<br/>
     2. Session에 로그인 정보가 없을 시 상품등록 버튼 안보임.<br/>
