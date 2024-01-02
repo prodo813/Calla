@@ -122,67 +122,22 @@ BUILD SUCCESS가 뜨면 설치 성공
   <br>
 </details>
 
-<details> 
-  <summary> 개인정보 확인/수정 </summary> 
+<details>
+  <summary> 물건 등록 </summary> 
   <p>
-    1. 현재 개인정보를 조회할 수 있습니다.<br/>
-    2. 원하는 정보만 선택해서 수정할 수 있습니다.<br/>
-    3. 회원 탈퇴를 할 수 있습니다.<br/>
+    1. 중고거래 탭에서는 자신이 올리고 싶은 상품 직접 등록.<br/>
+    2. Session에 로그인 정보가 없을 시 상품등록 버튼 안보임.<br/>
+    3. 상품등록 버튼을 누를시 상품 정보를 기재하는 페이지로 이동.<br/>
+    4. 주소 입력시 다음 주소 api를 이용하여 작성자 주소 상세 개입 가능.<br/>
+    4. 상품의 이미지 삽입.<br/>
   </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/65d35492-0cb6-4d58-abf2-09cf986fbe22" width="500px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/1acae338-05e7-4762-82c3-af9cdadf19ab" width="800px">
   <br>
-</details>
-
-<details> 
-  <summary> 내가 쓴 글/댓글/좋아요 리스트 </summary> 
-  <p>
-    1. 더보기 형식의 페이지네이션이 적용되어 있습니다.<br/>
-    2. 전체 조회 시, 전체 게시판 통합 조회가 가능하고, 각 카테고리 클릭 시, 해당 게시판의 내용만 조회 가능합니다.<br/>
-    3. 좋아요 리스트의 경우, 좋아요 일괄 삭제가 가능합니다.<br/>
-    4. 댓글에 페이지네이션이 적용되어 있습니다.<br/>
-  </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/84349232-4242-4fd8-b3f6-f355a4cb0269" width="500px">
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/fb83dd64-ad70-4af3-858c-60cf70f64a5d" width="500px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f22d126e-48dc-4ffb-b11b-9cb3abaebe71" width="800px">
   <br>
-</details>
 
-<details> 
-  <summary> 최근 본 상품 </summary> 
-  <p>
-    1. 이전/다음 버튼 형식의 페이지네이션이 적용되어 있습니다.<br/>
-    2. 최근 본 상품을 공용 상품/중고 상품 나눠서 조회할 수 있습니다.<br/>
-    3. 상품 클릭 시 해당 상품 상세 페이지로 이동합니다.<br/>
-    4. 내역에서 삭제할 수 있습니다.<br/>
-    5. 조회한 후 30일이 지난 상품은 내역에서 사라집니다.<br/>
-  </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/83899c82-d322-44ea-815a-7fb6fdab6c68" width="500px">
-  <br>
-</details>
 
-<details> 
-  <summary> 헤더 </summary> 
-  <p>
-    1. 로그인 시, 알림/마이페이지/로그아웃 버튼을, 로그아웃 시, 로그인/회원가입 버튼을 생성합니다.<br/>
-    2. 공용 상품/중고 상품을 카테고리별로 검색할 수 있습니다.<br/>
-    3. 원하는 게시판으로 이동 가능한 버튼이 있습니다.<br/>
-  </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/5850a53e-93c1-4d68-8966-a0a638521339" width="500px">
-  <br>
-</details>
-
-<details> 
-  <summary> 알림 </summary> 
-  <p>
-    1. 내가 쓴 게시글/댓글에 댓글/답글이 입력될 시 작동합니다.<br/>
-    2. 로그인 시, 보고있는 페이지 상단에 실시간으로 알람이 생성 되며 알림판에 저장 됩니다.<br/>
-    3. 비로그인 시, 알림판에 알림이 저장되며 다음 로그인 시 확인이 가능합니다.<br/>
-    4. 알림판은 읽지 않은 알림 -> 읽은 알림 순, 알림 온 시간 내림차순 정렬됩니다.<br/>
-    5. 실시간 알람/알림판 클릭 시, 해당 댓글/답글로 페이지 이동 및 스크롤합니다.<br/>
-    6. 알림판 내역 삭제가 가능합니다.<br/>
-  </p>
-  <img loading="lazy" src="https://github.com/superDDangKong/Calla/assets/140034486/e7aa5be5-2ed6-4fbe-93cd-c6294421ef56" width="500px">
-
-  <br>
+  
 </details>
 
 ## ERD - Diagram
