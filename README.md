@@ -3,6 +3,7 @@
 > 해당 프로젝트는 spring으로 구현한 쇼핑몰사이트 입니다.
 > <br>
 > 쇼핑몰 + 중고거래 + 커뮤니티를 결합한 사이트를 구현하였습니다.
+<br>
 
 ## 개발환경
   - OS : windows 10 64 bit
@@ -13,6 +14,8 @@
   - IDE : Eclipse
   - Spring : STS 3.9.18
   - Build : Maven 3.8.1
+    
+<br>
 
 ## 개발환경 세팅
 <details>
@@ -85,6 +88,8 @@ BUILD SUCCESS가 뜨면 설치 성공
 
 </details>
 
+<br>
+
 ## 사용 기술
 
 | 분류                 | Badge                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -92,10 +97,14 @@ BUILD SUCCESS가 뜨면 설치 성공
 | **Front - end**      | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jQuery&amp;logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> |
 | **Back - end**       | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Version Control**  | <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **DB**               | <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white">                                                                                                                                                                                                                                                                                                                                   
+| **DB**               | <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white">    
+
+<br>
 
 ## 프로젝트 역할
  - 저는 이 프로젝트에서 중고거래 상품 관리를 담당 하였습니다.
+
+<br>
 
 
 ## 웹 실행 모습
