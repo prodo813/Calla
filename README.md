@@ -130,8 +130,10 @@ BUILD SUCCESS가 뜨면 설치 성공
     3. 신상품 나열시 등록된지 2일 이하인 상품만 조회.<br/>
     4. 좋아요 순 나열시 좋아요가 많은 순서대로 상품 조회.<br/>
   </p>
+  - 검색예시 1
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/8d1ec6db-4b47-4386-9e39-e716bc5f5ec7" width="1000px">
   <br>
+  - 검색예시 2
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/bc77120b-7203-48fb-9eaf-280dc99d8aed" width="1000px">
   <br>
 </details>
