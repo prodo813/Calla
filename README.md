@@ -117,7 +117,7 @@ BUILD SUCCESS가 뜨면 설치 성공
     3. 상품별 네비게이션바가 있습니다.<br/>
     4. 상품 좋아요, 최신순 나열이 가능합니다.
   </p>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/265e1976-55a6-4671-81bc-e6d208cdd88a" width="500px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/265e1976-55a6-4671-81bc-e6d208cdd88a" width="1000px">
   <br>
 </details>
 
