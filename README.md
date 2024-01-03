@@ -148,8 +148,10 @@ BUILD SUCCESS가 뜨면 설치 성공
     4. 주소 입력시 다음 주소 api를 이용하여 작성자 주소 상세 개입 가능.<br/>
     4. 상품의 이미지 삽입.<br/>
   </p>
+  - 물건 등록 예시1
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/1acae338-05e7-4762-82c3-af9cdadf19ab" width="1000px">
   <br>
+  - 물건 등록 예시2 
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f22d126e-48dc-4ffb-b11b-9cb3abaebe71" width="1000px">
   <br>
 </details>
@@ -165,8 +167,10 @@ BUILD SUCCESS가 뜨면 설치 성공
     4. 상품 좋아요 기능.<br/>
     5. 추천 상품 보기(같은 카테고리).<br/>
   </p>
+  - 상품 상세 페이지 예시1
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/2ea10af8-872c-4cea-93df-23e37177a4d5" width="1000px">
   <br>
+  - 상품 상세 페이지 예시2
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/0a7bcce7-43e8-47e5-946e-64bce2ddd2a4" width="1000px">
   <br>
 </details>
@@ -179,10 +183,13 @@ BUILD SUCCESS가 뜨면 설치 성공
     2. 댓글 입력, 수정 삭제 시 alert창.<br/>
     3. 비밋 댓글 체크시 해당 상품 판매자와 댓글 작성자만 댓글 읽기 가능 나머지는 비밀 댓글로 보임.<br/>
   </p>
+  - 댓글 예시1
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/ccadc2e5-b933-43c5-b41a-07c5ee87d5c0" width="1000px">
   <br>
+  - 댓글 예시2
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/d542775b-b6be-4627-90c4-b0ed5d4373d1" width="1000px">
   <br>
+  - 댓글 예시3
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f8482cd3-3c19-47c1-90e0-f4e6c5df741e" width="1000px">
   <br>
 </details>
