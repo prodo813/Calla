@@ -130,9 +130,9 @@ BUILD SUCCESS가 뜨면 설치 성공
     3. 신상품 나열시 등록된지 2일 이하인 상품만 조회.<br/>
     4. 좋아요 순 나열시 좋아요가 많은 순서대로 상품 조회.<br/>
   </p>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/8d1ec6db-4b47-4386-9e39-e716bc5f5ec7" width="800px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/8d1ec6db-4b47-4386-9e39-e716bc5f5ec7" width="1000px">
   <br>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/bc77120b-7203-48fb-9eaf-280dc99d8aed" width="800px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/bc77120b-7203-48fb-9eaf-280dc99d8aed" width="1000px">
   <br>
 </details>
 
@@ -146,9 +146,9 @@ BUILD SUCCESS가 뜨면 설치 성공
     4. 주소 입력시 다음 주소 api를 이용하여 작성자 주소 상세 개입 가능.<br/>
     4. 상품의 이미지 삽입.<br/>
   </p>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/1acae338-05e7-4762-82c3-af9cdadf19ab" width="800px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/1acae338-05e7-4762-82c3-af9cdadf19ab" width="1000px">
   <br>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f22d126e-48dc-4ffb-b11b-9cb3abaebe71" width="800px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f22d126e-48dc-4ffb-b11b-9cb3abaebe71" width="1000px">
   <br>
 </details>
 
@@ -163,9 +163,9 @@ BUILD SUCCESS가 뜨면 설치 성공
     4. 상품 좋아요 기능.<br/>
     5. 추천 상품 보기(같은 카테고리).<br/>
   </p>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/2ea10af8-872c-4cea-93df-23e37177a4d5" width="900px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/2ea10af8-872c-4cea-93df-23e37177a4d5" width="1000px">
   <br>
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/0a7bcce7-43e8-47e5-946e-64bce2ddd2a4" width="900px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/0a7bcce7-43e8-47e5-946e-64bce2ddd2a4" width="1000px">
   <br>
 </details>
 
