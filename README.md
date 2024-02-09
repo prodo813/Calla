@@ -254,6 +254,28 @@ BUILD SUCCESS가 뜨면 설치 성공
   
 </details>
 
+<details>
+  <summary> 거래 기능 </summary> 
+  <br>
+  <p>
+    1. 내가올린상품 탭에서 거래완료 클릭시 팝업창이 열리며 상품에 댓글을 단 사용자들의 닉네임 목록이 리스트로 나옴.<br/>
+    2. 자신이 거래한 사용자의 닉네임을 체크하고 등록을 누르면 해당상품은 상품탭에서 삭제되고 판매목록에 해당상품이 추가됨.<br/>
+    3. 거래자는 구매목록에 해당상품이 추가됨.<br/>
+  </p>
+
+   - 거래기능 예시1
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/cf340825-64b4-4cdd-930b-969d10996833">
+  <br>
+  - 거래기능 예시2
+   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/83ff40b5-3148-49e6-84c3-893e1b2bc54c" width="1000px">
+  <br>
+ 
+  
+  
+</details>
+
+
+
 
 
 
