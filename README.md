@@ -241,6 +241,19 @@ BUILD SUCCESS가 뜨면 설치 성공
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/92bb5962-03da-4779-a1ff-91a270b9c805" width="1000px">
 </details>
 
+<details>
+  <summary> 예약 기능 </summary> 
+  <br>
+  <p>
+    1. 내가올린상품 탭에서 예약기능 클릭시 alert창과 함께 예약이 완료 되고 해당 상품이 거래가능에서 예약중으로 바뀜.<br/>
+    2. 예약기능 버튼클릭시 해당 버튼은 예약취소 버튼으로 바뀌고 예약취소 버튼시 해당상품은 예약중에서 거래가능으로 바뀜.<br/>
+  </p>
+  
+  - 예약기능 예시1
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/0200b7b5-88b4-45d6-b014-536bf1d75800" width="1000px">
+  
+</details>
+
 
 
 
