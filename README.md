@@ -202,8 +202,29 @@ BUILD SUCCESS가 뜨면 설치 성공
     2. 한 상품에 좋아요를 눌렀으면 좋아요 버튼이 좋아요 취소 버튼으로 변화.<br/>
     3. 해당 상품 아이디값과 현재 로그인세션에 있는 아이디가 uProductLikeid를 가지고 있지 않을때만 좋아요 버튼이 그렇지 않을시 좋아요 취소로 보이도록 구성 .<br/>
   </p>
-  - 댓글 예시1
+  - 좋아요 예시1
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f2958f0a-d7d8-4741-9ad9-75bb8acec75f" width="1000px">
+  <br>
+ 
+</details>
+
+<details>
+  <summary> 매물지도 기능 </summary> 
+  <br>
+  <p>
+    1. 매물지도 탭 클릭시 현재 상품이 등록된 주소를 바탕으로 마커표시.<br/>
+    2. 마커에는 현재 상품에 대한 정보가 담겨있음.<br/>
+    3. 해당 상품의 주소를 바탕으로 검색어에 입력시 그 주소에 해당하는 상품만 지도에 표시 .<br/>
+    3. 상품보기 클릭시 해당 상품으로 바로 연결.<br/>
+  </p>
+  - 매물지도 예시1
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/509d8df6-2af7-4915-b9d8-3a07ec104e3e" width="1000px">
+  <br>
+  - 매물지도 예시2
+   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/9ebe79a9-8fb8-4ff5-b16b-81705a174291" width="1000px">
+  <br>
+  - 매물지도 예시3
+   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/6e0e3a25-6bd4-4a4a-8577-98edfbd1ea12" width="1000px">
   <br>
  
 </details>
