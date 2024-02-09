@@ -176,20 +176,6 @@ BUILD SUCCESS가 뜨면 설치 성공
 </details>
 
 <details>
-  <summary> 좋아요 기능 </summary> 
-  <br>
-  <p>
-    1. 상품의 좋아요 기능 추가.<br/>
-    2. 한 상품에 좋아요를 눌렀으면 좋아요 버튼이 좋아요 취소 버튼으로 변화.<br/>
-    3. 해당 상품 아이디값과 현재 로그인세션에 있는 아이디가 uProductLikeid를 가지고 있지 않을때만 좋아요 버튼이 그렇지 않을시 좋아요 취소로 보이도록 구성 .<br/>
-  </p>
-  - 댓글 예시1
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/ccadc2e5-b933-43c5-b41a-07c5ee87d5c0" width="1000px">
-  <br>
- 
-</details>
-
-<details>
   <summary> 댓글 기능 </summary> 
   <br>
   <p>
@@ -206,6 +192,20 @@ BUILD SUCCESS가 뜨면 설치 성공
   - 댓글 예시3
   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f8482cd3-3c19-47c1-90e0-f4e6c5df741e" width="1000px">
   <br>
+</details>
+
+<details>
+  <summary> 좋아요 기능 </summary> 
+  <br>
+  <p>
+    1. 상품의 좋아요 기능 추가.<br/>
+    2. 한 상품에 좋아요를 눌렀으면 좋아요 버튼이 좋아요 취소 버튼으로 변화.<br/>
+    3. 해당 상품 아이디값과 현재 로그인세션에 있는 아이디가 uProductLikeid를 가지고 있지 않을때만 좋아요 버튼이 그렇지 않을시 좋아요 취소로 보이도록 구성 .<br/>
+  </p>
+  - 댓글 예시1
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/ccadc2e5-b933-43c5-b41a-07c5ee87d5c0" width="1000px">
+  <br>
+ 
 </details>
 
 
