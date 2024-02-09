@@ -264,14 +264,31 @@ BUILD SUCCESS가 뜨면 설치 성공
   </p>
 
    - 거래기능 예시1
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/cf340825-64b4-4cdd-930b-969d10996833">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/cf340825-64b4-4cdd-930b-969d10996833" width="1000px">
   <br>
   - 거래기능 예시2
    <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/83ff40b5-3148-49e6-84c3-893e1b2bc54c" width="1000px">
+  <br> 
+</details>
+
+<details>
+  <summary> 리뷰 기능 </summary> 
   <br>
- 
-  
-  
+  <p>
+    1. 구매자는 구매목록에서 해당 상품에 리뷰를 남길 수 있음.<br/>
+    2. 리뷰를 작성하고 해당 상품자의 매너온도를 올리거나 낮출 수 있는 버튼이 있음.<br/>
+    3. 해당리뷰는 상품상세페이지에서 판매자의 닉네임을 클릭시 자신이 쓴 리뷰와 다른 사람들이 쓴 리뷰룰 볼 수 있음.<br/>
+  </p>
+
+   - 거래기능 예시1
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/2aac90f6-f8e0-4de8-b7db-c608223ad987" width="1000px">
+  <br>
+  - 거래기능 예시2
+   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/eb563b5d-19fe-446f-ac1a-b9a658181d03" width="1000px">
+  <br>
+  - 거래기능 예시2
+   <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/ebb0334a-cdc6-45a6-a9ef-f0059bfc56b4" width="1000px">
+  <br> 
 </details>
 
 
