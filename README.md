@@ -19,7 +19,7 @@
 
 ## 개발환경 세팅
 <details>
-<summary>JAVA</summary>
+<summary>JAVA - 클릭!</summary>
 1. <a href="https://jdk.java.net/archive/">JDK 11.0.2</a> 설치 및 압축 풀기<br/>
 2. 환경 변수 설정 [내 pc] -> [속성] -> [고급 시스템 설정] -> [고급] -> [환경 변수] 탭 <br/> 
 &nbsp;&nbsp;[사용자 변수] -> [새로 만들기] (변수 명: JAVA_HOME / 변수 값 : jdk-11.0.2 폴더가 존재하는 경로 ex) C:\Program Files\jdk-11.0.2) <br/>
