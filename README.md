@@ -229,6 +229,18 @@ BUILD SUCCESS가 뜨면 설치 성공
  
 </details>
 
+<details>
+  <summary> 내가올린상품 기능 </summary> 
+  <br>
+  <p>
+    1. 내가올린상품 탭에서는 현재 자신이 팔고있는 물건들의 리스트를 볼수있음.<br/>
+    2. 현재 탭에서는 자신의 올린상품의 예약기능과 거래기능이 구성.<br/>
+  </p>
+  
+  - 내가올린상품 예시1
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/92bb5962-03da-4779-a1ff-91a270b9c805" width="1000px">
+</details>
+
 
 
 
