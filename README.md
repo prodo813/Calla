@@ -109,7 +109,7 @@ BUILD SUCCESS가 뜨면 설치 성공
 
 ## 웹 실행 모습
 <details> 
-  <summary> 중고상품 메인 </summary> 
+  <summary> 중고상품 메인 - 클릭! </summary> 
   <br>
   <p>
     1. 중고상품의 전체 조회가 가능합니다.<br/>
