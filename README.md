@@ -203,7 +203,7 @@ BUILD SUCCESS가 뜨면 설치 성공
     3. 해당 상품 아이디값과 현재 로그인세션에 있는 아이디가 uProductLikeid를 가지고 있지 않을때만 좋아요 버튼이 그렇지 않을시 좋아요 취소로 보이도록 구성 .<br/>
   </p>
   - 댓글 예시1
-  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/ccadc2e5-b933-43c5-b41a-07c5ee87d5c0" width="1000px">
+  <img loading="lazy" src="https://github.com/prodo813/Calla/assets/66214385/f2958f0a-d7d8-4741-9ad9-75bb8acec75f" width="1000px">
   <br>
  
 </details>
